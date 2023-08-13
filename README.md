@@ -9,4 +9,5 @@
 - Умение работать с компасом 3D.
 
 
-![Alt text](image.png)
+![image](https://github.com/Tulsya/Masha1/assets/136454948/0abf8177-a905-49ea-8690-666a6addc24f)
+
